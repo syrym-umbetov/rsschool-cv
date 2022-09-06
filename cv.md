@@ -1,1 +1,3 @@
 # Syrym Umbetov
+
+## Frontend Developer
